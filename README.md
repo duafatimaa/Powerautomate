@@ -5,7 +5,7 @@ Power Automate provides a visual interface that allows users to create workflows
 
 Power Automate includes a range of pre-built templates that users can use to quickly create workflows, and it also allows users to create custom workflows that can be triggered by events such as the creation of a new item in a SharePoint list, a new email arriving in an inbox, or a specific time of day.
 
-## Features of Power Automate
+## Features of PowerAutomate
 Power Automate offers the following features:
 
 - Drag-and-drop interface for creating workflows
@@ -13,7 +13,7 @@ Power Automate offers the following features:
 - Pre-built templates for common workflows
 - Custom workflows that can be triggered by events
 
-## How to Use Power Automate
+## How to Use PowerAutomate
 Here are the steps to use Power Automate:
 
 - Sign in to Power Automate using your Microsoft account.
